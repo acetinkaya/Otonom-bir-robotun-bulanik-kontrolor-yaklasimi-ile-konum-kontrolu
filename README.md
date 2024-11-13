@@ -27,7 +27,7 @@ Otonom bir robotun bulanık kontrolör yaklaşımı ile konum kontrolü
   
 - 3.** [Otonom bir robotun bulanık kontrolör yaklaşımı ile konum kontrolü](https://www.researchgate.net/publication/351993848_Otonom_bir_robotun_bulanik_kontrolor_yaklasimi_ile_konum_kontrolu_Fuzzy_position_control_approach_for_an_autonomous_robot_controller)
 
-- 4. [Youtube Link](https://www.youtube.com/watch?v=qRmWTXDYqPM)
+- 4.** [Youtube Link](https://www.youtube.com/watch?v=qRmWTXDYqPM)
 
 Özet:
 
