@@ -2,23 +2,33 @@
 
 Otonom bir robotun bulanık kontrolör yaklaşımı ile konum kontrolü
 
-## Authors
+## Author
 
-- **Ali Çetinkaya**  
-  Department of Electronics Technology, Istanbul Gelisim Vocational School, Istanbul Gelisim University, Istanbul, Turkey  
+- [**Ali Çetinkaya**](https://scholar.google.com/citations?user=XSEW-NcAAAAJ)
+  Department of Electronics Technology, Istanbul Gelisim Vocational School, Istanbul Gelisim University, Istanbul, Turkey
+  
+## Master Degree Advisor
+- [**Prof. Dr. Novruz Allahverdi**](https://scholar.google.com.tr/citations?user=5LqQuZYAAAAJ)  
+  Department of Computer Engineering, KTO Karatay University, Konya, Turkey
 
 *For Correspondence: alcetinkaya@gelisim.edu.tr*
 
-## Article Information
-- **Received**: October, 2014  
-- **Accepted**: February, 2017
-- **DOI:** 10.28956/gbd.941801
-- **Full Article Access Links**:
-- 1.** [Otonom bir robotun bulanık kontrolör yaklaşımı ile konum kontrolü](https://scholar.google.com.tr/citations?view_op=view_citation&hl=tr&user=XSEW-NcAAAAJ&citation_for_view=XSEW-NcAAAAJ:9yKSN-GCB0IC)
+## Tezis Information
+- **Started**: July, 2015
+- **Finished**: February, 2017
+- **DOI:** 10.13140/RG.2.2.16279.70563
+  
+- **Full Tezis Access Links**:
+  
+- 1.** [Otonom bir robotun bulanık kontrolör yaklaşımı ile konum kontrolü](https://acikerisim.karatay.edu.tr/yayin/1750053)
 
-- 
+- 2.** [Otonom bir robotun bulanık kontrolör yaklaşımı ile konum kontrolü](https://scholar.google.com.tr/citations?view_op=view_citation&hl=tr&user=XSEW-NcAAAAJ&citation_for_view=XSEW-NcAAAAJ:9yKSN-GCB0IC)
+  
+- 3.** [Otonom bir robotun bulanık kontrolör yaklaşımı ile konum kontrolü](https://www.researchgate.net/publication/351993848_Otonom_bir_robotun_bulanik_kontrolor_yaklasimi_ile_konum_kontrolu_Fuzzy_position_control_approach_for_an_autonomous_robot_controller)
 
-Özet
+- 4. [Youtube Link](https://www.youtube.com/watch?v=qRmWTXDYqPM)
+
+Özet:
 
 Bulanık kontrolör ile hedefe ulaşma ve konum kontrolü sağlamak için donanım bölümünde gömülü sistem (Atmel 2560 Entegresi) kullanılmıştır. Bu sistem üzerinden DC motor, servo motor, ultrasonik sensor, bluetooth modül ve optik sensör kontrolü yapılmıştır. Ayrıca mikrodenetleyici yazılımı ve Visual Studio 2015 platformunda c# dili kullanılarak masaüstü yazılımı tasarlanmıştır. Tasarlanan pist üzerinde gerçek zamanlı olarak geliştirilen Altu robot tarafından gönderilen koordinat (x, y) ve rota bilgileri Bulanık kontrolör ile işlenmiştir. Elde edilen veriler Altu robotun masaüstü yazılımında oluşturulan harita ile konum bilgileri ve robotun hareketleri izlenmektedir.
 
@@ -26,7 +36,7 @@ Anahtar Kelimeler: Bulanık Kontrolör, Konum Kontrol, Otonom Robot
 
 Abstract
 
-That the dependency on Information and Communication Technologies (ICT) and increasingly on the Internet has made it essential to ensure cyber security in these systems. Cyber security vulnerabilities that may occur in information technologies used in energy systems carries the risks of stopping or failing of energy services, large-scale economic damage, disruption of public order, loss of life and even endangering the national security of the countries. The aim of this research is to outline cyber security concepts in energy systems, to investigate cyber attacks against energy systems, to reveal the importance of cyber security in critical infrastructures, especially the critical energy infrastructure managed by SCADA, and finally to increase current awareness. Descriptive method was employed in the research. The information obtained from the research shows that ensuring cyber security in energy systems is of vital importance. Among the suggestions made by the research, the importance of using national cyber security information technology products that have been subjected to national cyber security tests and developed and tested by national security institutions that both have accreditation and certification in the energy sector in Turkey was particularly emphasized.
+An embedded system (Atmel 2560 Embedded Integrator) was used in the hardware section to provide target reaching and position control with the fuzzy controller. DC motor, servo motor, ultrasonic sensor, bluetooth module and optical sensor were controlled through this system. In addition, microcontroller software and desktop software were designed using c# language in Visual Studio 2015 platform. The coordinate (x, y) and route information sent by the Altu robot, which was developed in real time on the designed track, was processed with the Fuzzy controller. The data obtained are tracked with the location information and the movements of the robot with the map created in the desktop software of the Altu robot.
 
 Keywords: Fuzzy controller, Position Control, Autonomous Robot 
 
