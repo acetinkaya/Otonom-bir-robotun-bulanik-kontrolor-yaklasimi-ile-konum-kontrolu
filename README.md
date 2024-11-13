@@ -7,13 +7,12 @@ Otonom bir robotun bulanık kontrolör yaklaşımı ile konum kontrolü
 - [**Ali Çetinkaya**](https://scholar.google.com/citations?user=XSEW-NcAAAAJ)
 
   Department of Electronics Technology, Istanbul Gelisim Vocational School, Istanbul Gelisim University, Istanbul, Turkey
-  
+  *For Correspondence: alcetinkaya@gelisim.edu.tr*
+
 ## Master Degree Advisor
 - [**Prof. Dr. Novruz Allahverdi**](https://scholar.google.com.tr/citations?user=5LqQuZYAAAAJ)
 
   Department of Computer Engineering, KTO Karatay University, Konya, Turkey
-
-*For Correspondence: alcetinkaya@gelisim.edu.tr*
 
 ## Tezis Information
 - **Started**: July, 2015
