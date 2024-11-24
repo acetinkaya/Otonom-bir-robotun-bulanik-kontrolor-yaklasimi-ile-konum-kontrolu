@@ -24,10 +24,12 @@ Otonom bir robotun bulanık kontrolör yaklaşımı ile konum kontrolü
 - 1.** KTO Karatay Üniversitesi [Otonom bir robotun bulanık kontrolör yaklaşımı ile konum kontrolü](https://acikerisim.karatay.edu.tr/yayin/1749704)
 
 - 2.** Google Scholar [Otonom bir robotun bulanık kontrolör yaklaşımı ile konum kontrolü](https://scholar.google.com.tr/citations?view_op=view_citation&hl=tr&user=XSEW-NcAAAAJ&citation_for_view=XSEW-NcAAAAJ:9yKSN-GCB0IC)
-  
-- 3.** ResearchGate [Otonom bir robotun bulanık kontrolör yaklaşımı ile konum kontrolü](https://www.researchgate.net/publication/351993848_Otonom_bir_robotun_bulanik_kontrolor_yaklasimi_ile_konum_kontrolu_Fuzzy_position_control_approach_for_an_autonomous_robot_controller)
 
-- 4.** [Youtube Link](https://www.youtube.com/watch?v=qRmWTXDYqPM)
+- 3.** ResearchGate [Otonom bir robotun bulanık kontrolör yaklaşımı ile konum kontrolü]
+  
+- 4.** YökTez Erişim Adresi [Otonom bir robotun bulanık kontrolör yaklaşımı ile konum kontrolü](https://tez.yok.gov.tr/UlusalTezMerkezi/TezGoster?key=DPTyuy3wRPq_qvCPSqUB62m4T5-frBi7or8enn8DbQT-be1Yggms1qh3iOZUjoU-)
+
+- 5.** [Youtube Link](https://www.youtube.com/watch?v=qRmWTXDYqPM)
 
 Özet:
 
