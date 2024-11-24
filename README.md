@@ -62,7 +62,7 @@ Subject Headings: Mobile Robots, Computer Engineering and Computer Science and C
 
 --- 
 
-![alternatif metin](
+![alternatif metin](https://github.com/acetinkaya/Otonom-bir-robotun-bulanik-kontrolor-yaklasimi-ile-konum-kontrolu/blob/main/Tez.png)
 
 ---
 
