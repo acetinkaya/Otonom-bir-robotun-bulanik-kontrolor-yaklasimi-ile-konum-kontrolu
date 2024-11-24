@@ -6,10 +6,12 @@ Otonom bir robotun bulanık kontrolör yaklaşımı ile konum kontrolü
 
 - [**Ali Çetinkaya**](https://scholar.google.com/citations?user=XSEW-NcAAAAJ)
 
-  Department of Electronics Technology, Istanbul Gelisim Vocational School, Istanbul Gelisim University, Istanbul, Turkey
+  İstanbul Gelişim Üniversitesi, İstanbul Gelişim Meslek Yüksekokulu, Elektronik Teknolojisi Programı, İstanbul / Türkiye  
+  Department of Electronics Technology, Istanbul Gelisim Vocational School, Istanbul Gelisim University, Istanbul, Turkey  
   *For Correspondence: alcetinkaya@gelisim.edu.tr*
 
 ## Master Degree Advisor
+
 - [**Prof. Dr. Novruz Allahverdi**](https://scholar.google.com.tr/citations?user=5LqQuZYAAAAJ)
 
   Department of Computer Engineering, KTO Karatay University, Konya, Turkey
@@ -66,7 +68,6 @@ Subject Headings: Mobile Robots, Computer Engineering and Computer Science and C
 
 ---
 
-
 ## How to Cite
 
 - **IEEE**: A. ÇETİNKAYA, “Otonom Bir Robotun Bulanık Kontrolör Yaklaşımı İle Konum Kontrolü,” Yüksek Lisans Tezi, KTO Karatay Üniversitesi Fen Bilimleri Enstitüsü, Konya, Şubat 2017.
@@ -74,3 +75,11 @@ Subject Headings: Mobile Robots, Computer Engineering and Computer Science and C
 - **APA**: Çetinkaya, A., “Otonom Bir Robotun Bulanık Kontrolör Yaklaşımı İle Konum Kontrolü”, Yüksek Lisans Tezi, KTO Karatay Üniversitesi Fen Bilimleri Enstitüsü, Konya, Şubat 2017.
 
 - **MLA**: Çetinkaya, Ali. Otonom bir robotun bulanık kontrolör yaklaşımı ile konum kontrolü. MS thesis. Fen Bilimleri Enstitüsü, 2017.
+
+## License
+
+[Bu site](https://acikerisim.karatay.edu.tr/yayin/1749704) altında yer alan tüm kaynaklar Creative Commons Alıntı-GayriTicari-Türetilemez 4.0 Uluslararası Lisansı ile lisanslanmıştır.
+
+[Studies](https://acikerisim.karatay.edu.tr/yayin/1749704) published in the journal are licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 (CC BY-NC-ND 4.0) International License. 
+
+
