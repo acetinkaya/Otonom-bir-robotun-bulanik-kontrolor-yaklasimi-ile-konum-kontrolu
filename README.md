@@ -59,7 +59,13 @@ In this Tez study, the application of the position control on the fixed track by
 
 Subject Headings: Mobile Robots, Computer Engineering and Computer Science and Control, Computer Engineering and Computer Science and Control, Mobile Robots, Science and Technology
 
+
+--- 
+
+![alternatif metin](
+
 ---
+
 
 ## How to Cite
 
