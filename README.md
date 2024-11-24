@@ -43,13 +43,7 @@ Tez Özeti:
 
 Bu tez çalışmasında, otonom bir robotun Bulanık kontrolör yaklaşımı ile sabit pist üzerinde konum kontrolünün uygulaması gerçekleştirilmiştir. Bu amaçla hem donanım hem de yazılım olarak gerçek zamanlı veri alışverişi yapılabilecek bir sistem tasarlanmıştır. Bulanık kontrolör ile hedefe ulaşma ve konum kontrolü sağlamak için donanım bölümünde gömülü sistem (Atmel 2560 Entegresi) kullanılmıştır. Bu sistem üzerinden DC motor, servo motor, ultrasonik sensor, bluetooth modül ve optik sensor kontrolü yapılmıştır. Ayrıca mikrodenetleyici yazılımı ve Visual Studio 2015 platformunda c# dili kullanılarak masaüstü yazılımı tasarlanmıştır. Tasarlanan pist üzerinde gerçek zamanlı olarak geliştirilen Altu robot tarafından gönderilen koordinat (x, y) ve rota bilgileri Bulanık kontrolör ile işlenmiştir. Elde edilen veriler Altu robotun masaüstü yazılımında oluşturulan harita ile konum bilgileri ve robotun hareketleri izlenmektedir. Bulanık kontrolör yaklaşımı kullanılarak yapılan uygulamalar ayrıca geleneksel kontrol yöntemi ile denenmiştir ve sonuçları karşılaştırılmıştır. Altu robot pist üzerinde herhangi bir noktada çalıştırıldığında başlangıç konumunu hesaplayarak masaüstü yazılımına bluetooth modül aracılığıyla konum bilgisini göndermektedir. Bu bilgiye karşılık olarak masaüstü yazılımından Altu robota pist üzerinde gideceği hedef bilgisi aktarılmaktadır. Bulanık yaklaşımında robottan masaüstü yazılıma gelen koordinat ve mesafe verileri yeşil renkte, yazılım üzerinden robota giden rota bilgisi turuncu renkte gösterilmiştir. Geleneksel yöntemde robottan masaüstü yazılımına gelen koordinat ve mesafe verileri mavi renkte gösterilmiştir. Sonuç olarak, Altu robot masaüstü yazılımı tarafından gönderilen hedef koordinatlarından gitmesi gereken konum bilgisini alıp, bulanık kontrolör ile gidilmesi gereken mesafeyi ve yönünü bulması sağlanmıştır.
 
-Konu Başlıkları: Hareketli Robotlar, Bilgisayar Mühendisliği Bilimleri-Bilgisayar ve Kontrol, Bilim ve Teknoloji
-
-Computer Engineering and Computer Science and Control
-
-Mobile Robots
-
-Science and Technology
+Konu Başlıkları: Hareketli Robotlar, Bilgisayar Mühendisliği Bilimleri-Bilgisayar ve Kontrol, Bilim ve Teknoloji, Computer Engineering and Computer Science and Control, Mobile Robots, Science and Technology
 
 ----
 
